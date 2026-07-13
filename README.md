@@ -1,0 +1,1 @@
+Developed a responsive Fitness Tracker web application that helps users monitor and manage their daily health and fitness activities. The application enables users to record workouts, track calories, monitor progress, and maintain a healthier lifestyle through an intuitive and user-friendly interface.
